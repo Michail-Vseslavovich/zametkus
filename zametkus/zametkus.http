@@ -1,6 +1,0 @@
-@zametkus_HostAddress = http://localhost:5097
-
-GET {{zametkus_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
