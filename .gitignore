@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Zametki_service/infrastructure/PrivateInfoHolder.cs
+/Auth_service/infrastructure/PrivateInfoHolder.cs
