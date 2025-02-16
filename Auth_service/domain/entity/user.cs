@@ -2,7 +2,7 @@
 
 namespace Auth_service.domain.entity
 {
-    public class user
+    public class User
     {
         [Key]
         public readonly int id;
